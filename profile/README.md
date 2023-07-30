@@ -1,10 +1,10 @@
-# Cosmic Odyssey Roleplay - A New GTA San Andreas Roleplay Experience!
+# Cosmic Roleplay - A New GTA San Andreas Roleplay Experience!
 
-Welcome to Cosmic Odyssey Roleplay, an exciting upcoming server built for GTA San Andreas for Open Multiplayer. Immerse yourself in a thrilling roleplay experience like never before!
+Welcome to Cosmic Roleplay, an exciting upcoming server built for GTA San Andreas for Open Multiplayer. Immerse yourself in a thrilling roleplay experience like never before!
 
-## What is Cosmic Odyssey Roleplay?
+## What is Cosmic Roleplay?
 
-Cosmic Odyssey Roleplay is a meticulously crafted GTA San Andreas roleplay server designed to provide players with an immersive and dynamic gaming environment. Set in the vast and bustling world of San Andreas, you'll have the opportunity to create your own unique character, interact with other players, and embark on thrilling adventures across the city.
+Cosmic Roleplay is a meticulously crafted GTA San Andreas roleplay server designed to provide players with an immersive and dynamic gaming environment. Set in the vast and bustling world of San Andreas, you'll have the opportunity to create your own unique character, interact with other players, and embark on thrilling adventures across the city.
 
 
 ## Meet the Team:
@@ -20,4 +20,4 @@ Our dedicated team of developers and staff are passionate about delivering the b
 
 Are you excited to be a part of this exciting project? We're always looking for talented developers to join our team. Head over to our [Discord server][Discord] and get in touch with one of our friendly staff members. Share your portfolio or previous pawn experience.
 
-[Discord]: https://github.com/open-cosmic-odyssey-roleplay
+[Discord]: https://github.com/open-cosmic-roleplay
